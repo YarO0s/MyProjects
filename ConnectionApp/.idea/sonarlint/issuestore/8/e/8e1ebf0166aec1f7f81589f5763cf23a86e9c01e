@@ -1,20 +1,20 @@
 
-h	java:S116"NRename this field "UID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½·è¦øÿÿÿÿ
-<
-java:S1170"!Make this final field static too.(½·è¦øÿÿÿÿ
-I
-java:S1172 ".Remove this unused method parameter "newName".(·ûÛøÿÿÿÿ
-E
-java:S1656!"/Remove or correct this useless self-assignment.(¦äµÿ
-M
-java:S1135E"2Complete the task associated to this TODO comment.(«Ò¡üÿÿÿÿ
-Q
-java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ
-@
-java:S1128"*Remove this unused import 'lombok.Getter'.(ùÒµÙ
-@
-java:S1128"*Remove this unused import 'lombok.Setter'.(ó¸çµ
-o
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­·‹Ş
-x
-java:S4165!"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(¦äµÿ
+o	java:S116"NRename this field "UID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½·è¦øÿÿÿÿ8ÿı¡Íõ/
+C
+java:S1170"!Make this final field static too.(½·è¦øÿÿÿÿ8ş¡Íõ/
+P
+java:S1172 ".Remove this unused method parameter "newName".(·ûÛøÿÿÿÿ8àş¡Íõ/
+L
+java:S1656!"/Remove or correct this useless self-assignment.(¦äµÿ8âş¡Íõ/
+T
+java:S1135E"2Complete the task associated to this TODO comment.(«Ò¡üÿÿÿÿ8ƒÿ¡Íõ/
+X
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8„ÿ¡Íõ/
+G
+java:S1128"*Remove this unused import 'lombok.Getter'.(ùÒµÙ8†ÿ¡Íõ/
+G
+java:S1128"*Remove this unused import 'lombok.Setter'.(ó¸çµ8‡ÿ¡Íõ/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­·‹Ş8Šÿ¡Íõ/
+
+java:S4165!"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(¦äµÿ8€¢Íõ/

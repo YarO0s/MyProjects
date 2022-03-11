@@ -1,11 +1,11 @@
 
-[	java:S112	"FDefine and throw a dedicated exception instead of using a generic one.(ÖÁğò
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ
-‘
-java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(Åé¦Áúÿÿÿÿ
-N
-java:S1128"8Remove this unused import 'model.ItemNotFoundException'.(õ«
-g
-java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(·óßşüÿÿÿÿ
-b
-java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(È‚¯ô
+b	java:S112	"FDefine and throw a dedicated exception instead of using a generic one.(ÖÁğò8³¢Íõ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8Ø¢Íõ/
+˜
+java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(Åé¦Áúÿÿÿÿ8Ş¢Íõ/
+U
+java:S1128"8Remove this unused import 'model.ItemNotFoundException'.(õ«8æ¢Íõ/
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(È‚¯ô8Ä‚¢Íõ/
+n
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(·óßşüÿÿÿÿ8Å‚¢Íõ/

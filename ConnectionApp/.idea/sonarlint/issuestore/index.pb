@@ -31,15 +31,19 @@ T
 $src/main/java/model/UserRequest.java,1\a\1ac066aaad5de59e14f3324f506ba8d9e4f7635f
 ]
 -src/main/java/controller/RequestListener.java,8\c\8cf00c3e91649435891ea66de41620a745a3d1dc
-T
-$src/main/java/dal/parser/Parser.java,2\d\2d0607c660a7ca78d3fb7dd65a85855c9e3e07ef
-O
-src/main/java/model/Friend.java,7\c\7cf13d787406957db67b0649eee3413985939287
-M
-src/main/java/model/User.java,8\e\8e1ebf0166aec1f7f81589f5763cf23a86e9c01e
-N
-src/main/java/view/FileIO.java,2\c\2c78ec3f20ef97bf429963e70a5020d4268eddba
+Y
+)src/main/resources/UserData/UserList.json,9\1\91aa2568f1396d6edb29e6e2c8442b11fbd5b475
 ]
 -src/main/java/dal/parser/JSONUsersParser.java,4\2\4268b8c8f690880ee850cf76da048b7e2d5eede8
 Y
 )src/main/java/controller/QuickTester.java,9\f\9f7285596f325e149da324006684d2e3b36e80a5
+M
+src/main/java/model/User.java,8\e\8e1ebf0166aec1f7f81589f5763cf23a86e9c01e
+O
+src/main/java/model/Friend.java,7\c\7cf13d787406957db67b0649eee3413985939287
+N
+src/main/java/view/FileIO.java,2\c\2c78ec3f20ef97bf429963e70a5020d4268eddba
+T
+$src/main/java/dal/parser/Parser.java,2\d\2d0607c660a7ca78d3fb7dd65a85855c9e3e07ef
+a
+1src/main/java/model/network/ActiveConnection.java,8\e\8e10e75320044c2c2b72c8762af1ab1dd4f1de41
